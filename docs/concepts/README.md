@@ -3,3 +3,5 @@
 
 ## Каталог
 1. [Игрок](player.md)
+2. [Сеттинг](setting.md)
+3. [БиоКосТех](BioCosTech.md)
